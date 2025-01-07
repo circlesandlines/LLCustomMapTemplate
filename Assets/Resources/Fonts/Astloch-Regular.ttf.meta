@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8d85d429d8b9ec244891478e7d9d4264
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Astloch
+  fontNames:
+  - Astloch
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0ae22e9c70ca9dc4b987cf30b7c44e03, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

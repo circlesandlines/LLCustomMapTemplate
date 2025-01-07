@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Climbable
+  - Die
+  - DieWater
+  - WaterSound
+  - Checkpoint
+  - NotClimbable
+  - DieSoundless
+  - Scannable
+  - Unclimbable
+  - UnLedgeClimbable
+  - Screenshot
+  - FlowVolume
+  - FlowEnd
+  - SaveFlowingObjectPosition
+  - OptionForm
+  - OptionsMenuButton
+  - NoClimbOrLedgeClimb
+  - ReversingFlow
+  - FlowingObject
+  - SporeCloud
+  - PositionResetter
+  - BlueCrystal
+  - Wind
+  - AtmosphereThreshold
+  - Sticky
+  - Flare
+  - Don'tDie
+  - BlackHole
+  - ReverseSpecific
+  - Trout
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
